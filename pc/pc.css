@@ -1,0 +1,29 @@
+#bgi {
+    background-image: url("img/612888-gamer-wallpaper-top-free-gamer-background.jpg");
+    
+}
+
+h1,h2{
+
+    text-align: center;
+    color: white;
+}
+
+img{
+    display: block;
+    margin-right: auto;
+    margin-bottom: auto;
+    width: 260px;
+    border: 2px white solid;
+    transition: 1s;
+    border-radius: 3%;
+    
+}
+table {
+   
+    padding: 0;
+    margin: auto;
+}
+img:hover{
+    transform: scale(1.1);
+}
